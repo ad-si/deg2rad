@@ -1,0 +1,28 @@
+{
+  "name": "deg2rad",
+  "version": "0.0.0",
+  "description": "Convert degrees to radians",
+  "main": "source/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js",
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adius/deg2rad.git"
+  },
+  "keywords": [
+    "deg2rad",
+    "degree",
+    "radian"
+  ],
+  "author": "Adrian Sieber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adius/deg2rad/issues"
+  },
+  "homepage": "https://github.com/adius/deg2rad#readme"
+}
