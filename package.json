@@ -1,6 +1,6 @@
 {
   "name": "deg2rad",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Convert degrees to radians",
   "type": "module",
   "main": "source/index.js",
