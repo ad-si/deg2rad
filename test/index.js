@@ -1,5 +1,5 @@
-var assert = require('assert'),
-    deg2rad = require('../source/index.js')
+import assert from 'node:assert'
+import deg2rad from '../source/index.js'
 
 
 assert.equal(
